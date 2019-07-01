@@ -58,7 +58,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "@xtrctio/prettier-config": "^1.0.2",
+    "@roleup/prettier-config": "^1.0.2",
     "eslint": "^5.13.0"
   },
   "repository": {
