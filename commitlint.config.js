@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = { extends: ['@xtrctio/commitlint-config'] };
+module.exports = { extends: ['@roleup/commitlint-config'] };
