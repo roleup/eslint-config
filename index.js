@@ -83,6 +83,7 @@ module.exports = {
           ClassDeclaration: true
         }
       }
-    ]
+    ],
+    'eslint-comments/no-unused-disable': 'error',
   },
 };
