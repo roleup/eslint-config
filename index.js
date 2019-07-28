@@ -65,7 +65,7 @@ module.exports = {
     'no-useless-call': 'error',
     'no-underscore-dangle': 'off',
     'promise/always-return': 'off',
-    'sonarjs/no-duplicate-string': 'warn',
+    'sonarjs/no-duplicate-string': 'off',
     quotes: ['warn', 'single'],
     'quote-props': ['error', 'as-needed'],
     strict: ['error', 'global'],
