@@ -96,6 +96,7 @@ module.exports = {
     'lodash/prefer-includes': 'off',
     'lodash/prefer-some': 'off',
     'lodash/prefer-startsWith': 'off',
+    'lodash/prefer-lodash-chain': 'off',
 
     'promise/always-return': 'off',
     "promise/catch-or-return": "off",
