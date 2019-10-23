@@ -87,6 +87,9 @@ module.exports = {
     // 'mocha/no-pending-tests': 'error',
     // 'mocha/no-return-and-callback': 'error',
     // 'mocha/no-sibling-hooks': 'error',
+    'mocha/no-mocha-arrows': 'off',
+    'mocha/no-hooks-for-single-case': 'off',
+
     'lodash/prefer-constant': 'off',
     'lodash/prefer-lodash-method': 'off',
     'lodash/preferred-alias': 'off',
