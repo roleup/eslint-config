@@ -108,6 +108,6 @@ module.exports = {
     'eslint-comments/no-unused-disable': 'error',
 
     // Unicorn
-    "unicorn/filename-case": ["error", { "case": "camelCase" }]
+    'unicorn/filename-case': ["error", { "cases": { "camelCase": true, "pascalCase": true } }]
   },
 };
