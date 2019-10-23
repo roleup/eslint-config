@@ -97,6 +97,7 @@ module.exports = {
     'lodash/prefer-some': 'off',
     'lodash/prefer-startsWith': 'off',
     'lodash/prefer-lodash-chain': 'off',
+    'lodash/import-scope': ['error', "member"],
 
     'promise/always-return': 'off',
     "promise/catch-or-return": "off",
