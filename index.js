@@ -109,6 +109,7 @@ module.exports = {
     'eslint-comments/no-unused-disable': 'error',
 
     // Unicorn
-    'unicorn/filename-case': ["error", { "cases": { "camelCase": true, "pascalCase": true } }]
+    'unicorn/filename-case': ["error", { "cases": { "camelCase": true, "pascalCase": true } }],
+    'unicorn/consistent-function-scoping': 'off'
   },
 };
