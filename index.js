@@ -106,6 +106,7 @@ module.exports = {
     'sonarjs/no-duplicate-string': 'off',
 
     'import/prefer-default-export': 'off',
+    'import/extensions': 'off',
 
     'eslint-comments/no-unused-disable': 'error',
 
