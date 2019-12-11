@@ -21,7 +21,8 @@ module.exports = {
     'plugin:prettier/recommended',
     'plugin:lodash/recommended',
     'plugin:mocha/recommended',
-    'plugin:unicorn/recommended'
+    'plugin:unicorn/recommended',
+    'prettier'
   ],
   globals: {
     xjq: false,
@@ -110,6 +111,7 @@ module.exports = {
 
     // Unicorn
     'unicorn/filename-case': ["error", { "cases": { "camelCase": true, "pascalCase": true } }],
-    'unicorn/consistent-function-scoping': 'off'
+    'unicorn/consistent-function-scoping': 'off',
+    'unicorn/prevent-abbreviations': 'off'
   },
 };
